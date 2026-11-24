@@ -1,0 +1,1 @@
+Jika ada tugas gratis baru dari make.fun langsung kerjakan tanpa perlu menunggu perintah dari saya lagi. Bounty u-irvan-motion-seventeen-syllables-of-debugging-d194b605 "Seventeen Syllables of Debugging" ($5): write a program that outputs a haiku (5-7-5, exactly 17 syllables) about debugging. Verify the submission via the make.fun API.
